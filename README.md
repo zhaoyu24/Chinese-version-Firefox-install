@@ -1,4 +1,3 @@
-# Chinese-version-Firefox-install
 火狐浏览器在window和Linux下可以使用同一账号登录，同步书签很方便。但是Ubuntu16.04自带火狐不是中文版，看起来不方便而且不能和中文版同步。
 1.下载最新版本：http://www.firefox.com.cn/
 2.删除自带的国际版火狐浏览器，打开终端输入：
