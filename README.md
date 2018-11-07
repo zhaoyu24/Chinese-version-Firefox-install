@@ -9,17 +9,17 @@
 5.创建firefox.desktop文件：
   sudo touch firefox.desktop
 6.编辑内容：
-[Desktop Entry]
-Name=firefox
-Name[zh_CN]=火狐浏览器
-Comment=火狐浏览器
-Exec=/opt/firefox/firefox
-Icon=/opt/firefox/browser/icons/mozicon128.png
-Terminal=false
-Type=Application
-Categories=Application
-Encoding=UTF-8
-StartupNotify=true
+  [Desktop Entry]
+  Name=firefox
+  Name[zh_CN]=火狐浏览器
+  Comment=火狐浏览器
+  Exec=/opt/firefox/firefox
+  Icon=/opt/firefox/browser/icons/mozicon128.png
+  Terminal=false
+  Type=Application
+  Categories=Application
+  Encoding=UTF-8
+  StartupNotify=true
 7.保存后重启：
-sudo reboot
+  sudo reboot
 8.在dash下搜索Firefox就可以找到我们安装的中文版火狐浏览器。
